@@ -7,7 +7,6 @@ namespace RomanNumerals
         public static void Main(string[] args)
         {
             var numeralConverter = new RomanNumeralsCalculator();
-            //string romanNumerals = "VII";
             string romanNumerals = "";
             while (romanNumerals != "quit")
             {
