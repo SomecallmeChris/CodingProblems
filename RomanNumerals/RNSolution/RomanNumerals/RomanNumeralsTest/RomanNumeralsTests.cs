@@ -10,8 +10,19 @@ namespace RomanNumerals.Tests
         public void NumeralValidation()
         {
             //Arrange
+            var romanNumerals = new RomanNumeralsCalculator();
+            string inputOne = "MMXVI";
+            string inputTwo = "CHXVI";
+            bool expectedResultOne = true;
+            bool expectedResultTwo = false;
+
             //Act
+            var resultOne = romanNumerals.NumeralValidation(inputOne);
+            var resultTwo = romanNumerals.NumeralValidation(inputTwo);
+
             //Assert
+            Assert.Equal(expectedResultOne, resultOne);
+            Assert.Equal(expectedResultTwo, resultTwo);
         }
 
         [Fact]
