@@ -13,16 +13,14 @@ namespace RomanNumerals.Tests
             var romanNumerals = new RomanNumeralsCalculator();
             string inputOne = "MMXVI";
             string inputTwo = "CHXVI";
-            bool expectedResultOne = true;
-            bool expectedResultTwo = false;
 
             //Act
             var resultOne = romanNumerals.NumeralValidation(inputOne);
             var resultTwo = romanNumerals.NumeralValidation(inputTwo);
 
             //Assert
-            Assert.Equal(expectedResultOne, resultOne);
-            Assert.Equal(expectedResultTwo, resultTwo);
+            Assert.True(resultOne);
+            Assert.False(resultTwo);
         }
 
         [Fact]
