@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SumSubset224/1.0.0": {
+        "runtime": {
+          "SumSubset224.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumSubset224/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/SumSubset224.deps.json
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/SumSubset224.runtimeconfig.json
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/SumSubset224.runtimeconfig.dev.json
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/SumSubset224.dll
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/ref/SumSubset224.dll
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/bin/Debug/net5.0/SumSubset224.pdb
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.csprojAssemblyReference.cache
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.AssemblyInfoInputs.cache
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.AssemblyInfo.cs
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.csproj.CoreCompileInputs.cache
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.dll
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/ref/SumSubset224.dll
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.pdb
+/Users/chrisjreader/Desktop/CodingProblems/SumSubset224/SumSubset224/obj/Debug/net5.0/SumSubset224.genruntimeconfig.cache
